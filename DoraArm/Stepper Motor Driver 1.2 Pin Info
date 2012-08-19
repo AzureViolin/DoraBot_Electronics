@@ -1,0 +1,10 @@
+Stepper Motor Driver 1.2 by Zach
+----------------------------
+
+Give it a test drive.
+[edit] Connect Board to Arduino.
+This part is very easy. Use the table below to determine what pins to hook up to what. Plug the IDC cable into the blue socket on the stepper controller board. If you look into the holes of the IDC plug, with the red stripe away from you, the top-right pin is #1. The pin to its left is #2. The pin one row closer to you from #1 is #3. The pin closer to you from #2 is #4. Plug three jumper wires from the IDC connector into the associated Arduino pin:
+Board Pin	 IDC	 Arduino Pin
+STEP	 3	 4
+DIR	 4	 5
+GND	 2	 Ground

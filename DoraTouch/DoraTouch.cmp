@@ -1,0 +1,192 @@
+Cmp-Mod V01 Created by CvPcb (2011-nov-30)-testing date = Wed 04 Jul 2012 03:15:57 AM PDT
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22A9F;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = SparkFun-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22AB1;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = SparkFun-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22AB7;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = SparkFun-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF24E48;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = SparkFun-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF24E57;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-0603-CAP;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF24E66;
+Reference = C6;
+ValeurCmp = 0.01uF;
+IdModule  = SparkFun-0603-CAP;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF24B13;
+Reference = CN1;
+ValeurCmp = USB_MICRO;
+IdModule  = USB Micro;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF2951C;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SparkFun-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22ABD;
+Reference = IC1;
+ValeurCmp = ATTINY24A-SS;
+IdModule  = SO14E;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF249B5;
+Reference = IC2;
+ValeurCmp = ATXMEGA16/32/64/128A4U;
+IdModule  = TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22B0A;
+Reference = M1;
+ValeurCmp = MOUNTING_HOLE;
+IdModule  = Mounting Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22B10;
+Reference = M2;
+ValeurCmp = MOUNTING_HOLE;
+IdModule  = Mounting Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22B16;
+Reference = M3;
+ValeurCmp = MOUNTING_HOLE;
+IdModule  = Mounting Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22B1C;
+Reference = M4;
+ValeurCmp = MOUNTING_HOLE;
+IdModule  = Mounting Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF39491;
+Reference = P1;
+ValeurCmp = PROGRAM;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF29A6C;
+Reference = P2;
+ValeurCmp = PROGRAM;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF2A10C;
+Reference = P3;
+ValeurCmp = I2C_BUS;
+IdModule  = I2C SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF297F3;
+Reference = P4;
+ValeurCmp = DAISY;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF3C4F4;
+Reference = P5;
+ValeurCmp = I2C_BUS;
+IdModule  = I2C SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF29B87;
+Reference = R1;
+ValeurCmp = 4.7K;
+IdModule  = SparkFun-0603-RES;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF29B78;
+Reference = R2;
+ValeurCmp = 4.7K;
+IdModule  = SparkFun-0603-RES;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF298BF;
+Reference = R3;
+ValeurCmp = 4.7K;
+IdModule  = SparkFun-0603-RES;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF2950D;
+Reference = R4;
+ValeurCmp = 120R;
+IdModule  = SparkFun-0603-RES;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22A99;
+Reference = U1;
+ValeurCmp = MPL115A;
+IdModule  = SparkFun-LGA8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22AA5;
+Reference = U2;
+ValeurCmp = MPL115A;
+IdModule  = SparkFun-LGA8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF228FD/4FF22AAB;
+Reference = U3;
+ValeurCmp = MPL115A;
+IdModule  = SparkFun-LGA8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF22937/4FF3DFCE;
+Reference = U4;
+ValeurCmp = MCP1700;
+IdModule  = SparkFun-SOT23;
+EndCmp
+
+EndListe

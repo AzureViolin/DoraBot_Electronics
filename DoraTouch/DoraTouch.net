@@ -1,0 +1,400 @@
+# EESchema Netlist Version 1.1 created  Wed 04 Jul 2012 03:55:56 AM PDT
+(
+ ( /4FF228FD/4FF22A99 SparkFun-LGA8  U1 MPL115A {Lib=MPL115A}
+  (    1 VCC )
+  (    2 N-000014 )
+  (    3 GND )
+  (    4 VCC )
+  (    5 /DoraTouch_3_Sensor/SEL_BOARD1_SENSOR1 )
+  (    6 ? )
+  (    7 /DoraTouch_3_Sensor/SDA )
+  (    8 /DoraTouch_3_Sensor/SCL )
+ )
+ ( /4FF228FD/4FF22A9F $noname  C1 1uF {Lib=C}
+  (    1 GND )
+  (    2 N-000014 )
+ )
+ ( /4FF228FD/4FF22AA5 SparkFun-LGA8  U2 MPL115A {Lib=MPL115A}
+  (    1 VCC )
+  (    2 N-000012 )
+  (    3 GND )
+  (    4 VCC )
+  (    5 /DoraTouch_3_Sensor/SEL_BOARD1_SENSOR2 )
+  (    6 ? )
+  (    7 /DoraTouch_3_Sensor/SDA )
+  (    8 /DoraTouch_3_Sensor/SCL )
+ )
+ ( /4FF228FD/4FF22AAB SparkFun-LGA8  U3 MPL115A {Lib=MPL115A}
+  (    1 VCC )
+  (    2 N-000011 )
+  (    3 GND )
+  (    4 VCC )
+  (    5 /DoraTouch_3_Sensor/SEL_BOARD1_SENSOR3 )
+  (    6 ? )
+  (    7 /DoraTouch_3_Sensor/SDA )
+  (    8 /DoraTouch_3_Sensor/SCL )
+ )
+ ( /4FF228FD/4FF22AB1 $noname  C2 1uF {Lib=C}
+  (    1 GND )
+  (    2 N-000012 )
+ )
+ ( /4FF228FD/4FF22AB7 $noname  C3 1uF {Lib=C}
+  (    1 GND )
+  (    2 N-000011 )
+ )
+ ( /4FF228FD/4FF22ABD SO14  IC1 ATTINY24A-SS {Lib=ATTINY24A-SS}
+  (    1 VCC )
+  (    2 ? )
+  (    3 GND )
+  (    4 /DoraTouch_3_Sensor/RESET_BOARD1 )
+  (    5 GND )
+  (    6 GND )
+  (    7 /DoraTouch_3_Sensor/SDA )
+  (    8 /DoraTouch_3_Sensor/MISO )
+  (    9 /DoraTouch_3_Sensor/SCL )
+  (   10 ? )
+  (   11 /DoraTouch_3_Sensor/SEL_BOARD1_SENSOR3 )
+  (   12 /DoraTouch_3_Sensor/SEL_BOARD1_SENSOR2 )
+  (   13 /DoraTouch_3_Sensor/SEL_BOARD1_SENSOR1 )
+  (   14 GND )
+ )
+ ( /4FF228FD/4FF22B0A $noname  M1 MOUNTING_HOLE {Lib=MOUNTING_HOLE}
+ )
+ ( /4FF228FD/4FF22B10 $noname  M2 MOUNTING_HOLE {Lib=MOUNTING_HOLE}
+ )
+ ( /4FF228FD/4FF22B16 $noname  M3 MOUNTING_HOLE {Lib=MOUNTING_HOLE}
+ )
+ ( /4FF228FD/4FF22B1C $noname  M4 MOUNTING_HOLE {Lib=MOUNTING_HOLE}
+ )
+ ( /4FF228FD/4FF3C4F4 $noname  P5 I2C_BUS {Lib=CONN_4}
+  (    1 GND )
+  (    2 VCC )
+  (    3 /DoraTouch_3_Sensor/SCL )
+  (    4 /DoraTouch_3_Sensor/SDA )
+ )
+ ( /4FF228FD/4FF39491 $noname  P1 PROGRAM {Lib=CONN_3X2}
+  (    1 /DoraTouch_3_Sensor/MISO )
+  (    2 VCC )
+  (    3 /DoraTouch_3_Sensor/SCL )
+  (    4 /DoraTouch_3_Sensor/SDA )
+  (    5 /DoraTouch_3_Sensor/RESET_BOARD1 )
+  (    6 GND )
+ )
+ ( /4FF22937/4FF249B5 $noname  IC2 ATXMEGA16/32/64/128A4U {Lib=ATXMEGA16/32/64/128A4U}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 GND )
+  (    9 VCC )
+  (   10 /DoraTouch_3_Sensor/SDA )
+  (   11 /DoraTouch_3_Sensor/SCL )
+  (   12 ? )
+  (   13 ? )
+  (   14 ? )
+  (   15 ? )
+  (   16 ? )
+  (   17 ? )
+  (   18 GND )
+  (   19 VCC )
+  (   20 ? )
+  (   21 ? )
+  (   22 ? )
+  (   23 ? )
+  (   24 ? )
+  (   25 ? )
+  (   26 /DoraTouch_USB_Interface/USB- )
+  (   27 /DoraTouch_USB_Interface/USB+ )
+  (   28 /DoraTouch_USB_Interface/PE0 )
+  (   29 /DoraTouch_USB_Interface/PE1 )
+  (   30 GND )
+  (   31 VCC )
+  (   32 /DoraTouch_USB_Interface/PE2 )
+  (   33 /DoraTouch_USB_Interface/PE3 )
+  (   34 /DoraTouch_USB_Interface/PDI_DATA )
+  (   35 /DoraTouch_USB_Interface/PDI_CLK )
+  (   36 /DoraTouch_USB_Interface/BOOTLOAD )
+  (   37 N-000027 )
+  (   38 GND )
+  (   39 VCC )
+  (   40 ? )
+  (   41 ? )
+  (   42 ? )
+  (   43 ? )
+  (   44 ? )
+ )
+ ( /4FF22937/4FF24B13 $noname  CN1 USB_MICRO {Lib=USB_MICRO}
+  (    1 /DoraTouch_USB_Interface/5V )
+  (    2 /DoraTouch_USB_Interface/USB- )
+  (    3 /DoraTouch_USB_Interface/USB+ )
+  (    4 ? )
+  (    5 GND )
+ )
+ ( /4FF22937/4FF24E48 $noname  C4 1uF {Lib=C}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /4FF22937/4FF24E57 $noname  C5 0.1uF {Lib=C}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /4FF22937/4FF24E66 $noname  C6 0.01uF {Lib=C}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /4FF22937/4FF2950D $noname  R4 120R {Lib=R}
+  (    1 N-000026 )
+  (    2 N-000027 )
+ )
+ ( /4FF22937/4FF2951C $noname  D1 LED {Lib=LED}
+  (    1 N-000026 )
+  (    2 GND )
+ )
+ ( /4FF22937/4FF297F3 $noname  P4 DAISY {Lib=CONN_6}
+  (    1 GND )
+  (    2 /DoraTouch_USB_Interface/PE3 )
+  (    3 /DoraTouch_USB_Interface/PE2 )
+  (    4 /DoraTouch_USB_Interface/PE1 )
+  (    5 /DoraTouch_USB_Interface/PE0 )
+  (    6 /DoraTouch_USB_Interface/5V )
+ )
+ ( /4FF22937/4FF298BF $noname  R3 4.7K {Lib=R}
+  (    1 /DoraTouch_USB_Interface/PE0 )
+  (    2 VCC )
+ )
+ ( /4FF22937/4FF29A6C $noname  P2 PROGRAM {Lib=CONN_3X2}
+  (    1 /DoraTouch_USB_Interface/PDI_DATA )
+  (    2 VCC )
+  (    3 ? )
+  (    4 /DoraTouch_USB_Interface/BOOTLOAD )
+  (    5 /DoraTouch_USB_Interface/PDI_CLK )
+  (    6 GND )
+ )
+ ( /4FF22937/4FF29B78 $noname  R2 4.7K {Lib=R}
+  (    1 /DoraTouch_3_Sensor/SDA )
+  (    2 VCC )
+ )
+ ( /4FF22937/4FF29B87 $noname  R1 4.7K {Lib=R}
+  (    1 /DoraTouch_3_Sensor/SCL )
+  (    2 VCC )
+ )
+ ( /4FF22937/4FF2A10C $noname  P3 I2C_BUS {Lib=CONN_4}
+  (    1 GND )
+  (    2 VCC )
+  (    3 /DoraTouch_3_Sensor/SCL )
+  (    4 /DoraTouch_3_Sensor/SDA )
+ )
+ ( /4FF22937/4FF3DFCE $noname  U4 MCP1700 {Lib=MCP1700}
+  (    1 GND )
+  (    2 VCC )
+  (    3 /DoraTouch_USB_Interface/5V )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "VCC" "VCC"
+ IC1 1
+ U1 1
+ U1 4
+ U2 1
+ U2 4
+ R2 2
+ U3 1
+ U3 4
+ P5 2
+ P1 2
+ IC2 39
+ C6 1
+ C5 1
+ C4 1
+ IC2 31
+ IC2 9
+ P2 2
+ IC2 19
+ R1 2
+ P3 2
+ U4 2
+ R3 2
+Net 2 "GND" "GND"
+ IC1 6
+ C5 2
+ IC1 5
+ C6 2
+ IC1 3
+ C4 2
+ U1 3
+ C1 1
+ CN1 5
+ IC2 30
+ P3 1
+ IC2 38
+ IC2 18
+ P2 6
+ P4 1
+ D1 2
+ IC1 14
+ C3 1
+ C2 1
+ IC2 8
+ U3 3
+ P1 6
+ P5 1
+ U4 1
+ U2 3
+Net 3 "/DoraTouch_3_Sensor/SDA" "SDA"
+ P1 4
+ P5 4
+ P3 4
+ R2 1
+ U2 7
+ IC2 10
+ IC1 7
+ U3 7
+ U1 7
+Net 7 "/DoraTouch_3_Sensor/MISO" "MISO"
+ P1 1
+ IC1 8
+Net 10 "/DoraTouch_3_Sensor/SEL_BOARD1_SENSOR3" "SEL_BOARD1_SENSOR3"
+ IC1 11
+ U3 5
+Net 11 "" ""
+ U3 2
+ C3 2
+Net 12 "" ""
+ C2 2
+ U2 2
+Net 13 "/DoraTouch_3_Sensor/SEL_BOARD1_SENSOR1" "SEL_BOARD1_SENSOR1"
+ U1 5
+ IC1 13
+Net 14 "" ""
+ C1 2
+ U1 2
+Net 15 "/DoraTouch_3_Sensor/SEL_BOARD1_SENSOR2" "SEL_BOARD1_SENSOR2"
+ U2 5
+ IC1 12
+Net 16 "/DoraTouch_3_Sensor/RESET_BOARD1" "RESET_BOARD1"
+ P1 5
+ IC1 4
+Net 17 "/DoraTouch_USB_Interface/PE2" "PE2"
+ IC2 32
+ P4 3
+Net 18 "/DoraTouch_USB_Interface/PDI_DATA" "PDI_DATA"
+ P2 1
+ IC2 34
+Net 19 "/DoraTouch_USB_Interface/PE3" "PE3"
+ IC2 33
+ P4 2
+Net 21 "/DoraTouch_USB_Interface/BOOTLOAD" "BOOTLOAD"
+ IC2 36
+ P2 4
+Net 22 "/DoraTouch_USB_Interface/PDI_CLK" "PDI_CLK"
+ P2 5
+ IC2 35
+Net 23 "/DoraTouch_USB_Interface/PE1" "PE1"
+ IC2 29
+ P4 4
+Net 24 "/DoraTouch_USB_Interface/5V" "5V"
+ P4 6
+ U4 3
+ CN1 1
+Net 25 "/DoraTouch_USB_Interface/PE0" "PE0"
+ IC2 28
+ R3 1
+ P4 5
+Net 26 "" ""
+ R4 1
+ D1 1
+Net 27 "" ""
+ R4 2
+ IC2 37
+Net 52 "/DoraTouch_USB_Interface/USB-" "USB-"
+ IC2 26
+ CN1 2
+Net 53 "/DoraTouch_USB_Interface/USB+" "USB+"
+ IC2 27
+ CN1 3
+Net 55 "/DoraTouch_3_Sensor/SCL" "SCL"
+ U1 8
+ IC1 9
+ U2 8
+ U3 8
+ P5 3
+ P1 3
+ P3 3
+ R1 1
+ IC2 11
+}
+#End

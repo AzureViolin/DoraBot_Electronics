@@ -1,0 +1,8 @@
+green GND
+brown RELAY MOTOR_DRIVER_POWER
+blue DIR_A PITCH_DIR
+white_blue PWM_A PITCH_PWM
+orange DIR_C YAW_DIR
+white_orange PWM_C YAW_PWM
+white_green CURRENT_A PITCH_CURRENT
+white_brown CURRENT_C YAW_CURRENT

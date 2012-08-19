@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPcb (2011-nov-30)-testing date = Wed 04 Jul 2012 10:14:03 PM PDT
+
+BeginCmp
+TimeStamp = /4FF51BC9;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = SparkFun-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF51C8F;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = SparkFun-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF51C2E;
+Reference = P1;
+ValeurCmp = I2C_BUS;
+IdModule  = I2C SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF51DD9;
+Reference = R1;
+ValeurCmp = 4.7K;
+IdModule  = SparkFun-0603-RES;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF51DD3;
+Reference = R2;
+ValeurCmp = 4.7K;
+IdModule  = SparkFun-0603-RES;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF51BC3;
+Reference = U1;
+ValeurCmp = MPL115A;
+IdModule  = SparkFun-LGA8;
+EndCmp
+
+EndListe
